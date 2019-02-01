@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "my portfolio",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "kedehcostly.github.io",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
